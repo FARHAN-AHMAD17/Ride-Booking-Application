@@ -1,5 +1,5 @@
 # Ride Booking Application
-I Developed FAQ RIDING App using the basic concepts of C++ programming language🚕😎🎶
+I Developed FAQ RIDING App using the Data Structure concepts of C++ programming language🚕😎🎶
 
 ## **Project Overview**
 
